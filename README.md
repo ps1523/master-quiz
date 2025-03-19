@@ -38,8 +38,6 @@ python3 quiz.py
 ## Screenshots
 Below are some screenshots of the application
 
-me/prabashankar-k/Music/Quiz-App-master/output/
-
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting pull requests.
