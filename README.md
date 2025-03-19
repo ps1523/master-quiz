@@ -23,6 +23,8 @@ This is a Python-based quiz application built using Tkinter for the GUI. The app
 3. Install dependencies:
    
    sudo  apt install   python3-tkinker
+
+   
    sudo apt install python3-time
    
 
