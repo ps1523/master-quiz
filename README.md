@@ -37,8 +37,8 @@ python3 quiz.py
 
 ## Screenshots
 Below are some screenshots of the application
-![Uploading Screenshot from 2025-03-18 13-43-22.png…]()
 
+me/prabashankar-k/Music/Quiz-App-master/output/
 
 
 ## Contributing
