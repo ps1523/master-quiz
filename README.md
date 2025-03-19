@@ -14,19 +14,20 @@ This is a Python-based quiz application built using Tkinter for the GUI. The app
 ## Installation
 1. Clone this repository:
    
-   git clone https://github.com/your-username/Quiz-App.git
+   https://github.com/ps1523/master-quiz.git
    
 2. Navigate to the project directory:
    
    cd Quiz-App-master
    
 3. Install dependencies:
-   
+   ```sh
    sudo  apt install   python3-tkinker
+```
 
-   
+```sh
    sudo apt install python3-time
-   
+ ```
 
 ## Usage
 Run the quiz application using:
@@ -37,6 +38,7 @@ python3 quiz.py
 ## Screenshots
 Below are some screenshots of the application
 ![Uploading Screenshot from 2025-03-18 13-43-22.png…]()
+
 
 
 ## Contributing
